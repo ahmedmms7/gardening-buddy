@@ -1,0 +1,5 @@
+# Gardening Buddy — design system
+Botanical, welcoming, quietly technical. Forest navigation (#173e32), warm ivory canvas (#f8f7ef), energetic citron (#d9ee92), terracotta and sage accents. DM Sans UI, Manrope display, Noto Sans Arabic RTL. Generous display scale, rounded cards, fine-line Lucide icons and custom vector plant/device illustrations. No invented social proof.
+Marketing: editorial two-column hero, organic botanical illustration, expressive device face, pill CTAs, numbered process, use cases and pilot honesty. App: forest sidebar, ivory workspace, white cards, amber persistent demo notice. Mobile stacks and scrollable navigation. Family/Simple enlarge controls and simplify navigation; Grower uses compact rows.
+Forms: labels, native validation, focus rings, destructive confirmations. Typed local demo adapter and localStorage persistence. Static sample sensor data, honest offline simulation, calendar-day streaks based on check-ins not watering.
+Pages: landing, dashboard, plant detail, care planner, schools, photo tool, devices/settings. All English/Arabic. No backend or keys needed; authenticated device integration remains future work.
